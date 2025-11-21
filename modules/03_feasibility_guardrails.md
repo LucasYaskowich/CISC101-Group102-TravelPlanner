@@ -1,6 +1,3 @@
-- Change Log (14/11/2025)
-- Created transportation cost rule
-
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -36,8 +33,3 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 8. **Bookings**
    
    - If activity usually needs a ticket → just remind the user to book it; never simulate bookings.
-     
-9. **Transportation**
-   
-   - If transportation costs for a day exceed $25, swap transportation methods to fit the budget.
-     
